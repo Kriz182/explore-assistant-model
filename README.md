@@ -1,3 +1,6 @@
+**This repo has been archived**
+
+
 # Explore Assistant Model : A LookML Project for Integrating ML.GENERATE_TEXT() Function from BigQuery for Query Generation
 
 ## Part 1: Creating a BigQuery ML Remote Model
